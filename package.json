@@ -18,12 +18,13 @@
     "tile"
   ],
   "dependencies": {
+    "@awo00/smb2": "^1.0.0",
     "agentkeepalive": "4.1.0",
     "bluebird": "3.7.2",
     "commander": "5.0.0",
     "lodash": "4.17.15",
     "request": "2.88.2",
-    "sqlite3": "4.1.1"
+    "sqlite3": "^5.1.7"
   },
   "engines": {
     "node": ">=6.0.0"
